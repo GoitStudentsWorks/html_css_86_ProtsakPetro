@@ -1,11 +1,11 @@
 {
-  "name": "team-apocalypse",
+  "name": "GoitStudentsWorks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-apocalypse/",
+    "build": "vite build --base=/html_css_86_ProtsakPetro/",
     "preview": "vite preview"
   },
   "devDependencies": {
